@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="6361e21d-4486-4b65-b03a-b71a1f41678d" Title="global Namespace" Url="html/1494451555.htm">
+    <HelpTOCNode Id="00c5a88f-a37d-40f9-8a3d-06a8ecc289a8" Title="__unnamed_struct_0001_1 Structure" Url="html/846889822.htm">
+      <HelpTOCNode Title="__unnamed_struct_0001_1 Members" Url="html/685134517.htm" />
+      <HelpTOCNode Id="e5b19eac-43e4-42ab-9187-98f595e42760" Title="__unnamed_struct_0001_1 Fields" Url="html/603538526.htm">
+        <HelpTOCNode Title="codigoArtigo Field" Url="html/477107365.htm" />
+        <HelpTOCNode Title="descricao Field" Url="html/605729162.htm" />
+        <HelpTOCNode Title="preco Field" Url="html/1300525814.htm" />
+        <HelpTOCNode Title="quantidadeStock Field" Url="html/29990834.htm" />
+        <HelpTOCNode Title="quantidadeVendida Field" Url="html/292994720.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2ca97a49-b944-48c4-b655-e5fd61119ebe" Title="__unnamed_struct_0001_2 Structure" Url="html/846889825.htm">
+      <HelpTOCNode Title="__unnamed_struct_0001_2 Members" Url="html/1653517643.htm" />
+      <HelpTOCNode Id="08962219-25d3-4b6e-b56a-ef5ae639cc24" Title="__unnamed_struct_0001_2 Fields" Url="html/970439586.htm">
+        <HelpTOCNode Title="cartaoCidadao Field" Url="html/636766234.htm" />
+        <HelpTOCNode Title="email Field" Url="html/472157079.htm" />
+        <HelpTOCNode Title="morada Field" Url="html/1556541608.htm" />
+        <HelpTOCNode Title="nif Field" Url="html/209391230.htm" />
+        <HelpTOCNode Title="nome Field" Url="html/179564923.htm" />
+        <HelpTOCNode Title="telefone Field" Url="html/1882055208.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="872f45f9-8388-4cff-a7bf-4bd5ab6b6162" Title="__unnamed_struct_0001_3 Structure" Url="html/846889824.htm">
+      <HelpTOCNode Title="__unnamed_struct_0001_3 Members" Url="html/302797493.htm" />
+      <HelpTOCNode Id="627c3c7f-03f0-42f2-bbb8-b008765ca0c5" Title="__unnamed_struct_0001_3 Fields" Url="html/985875550.htm">
+        <HelpTOCNode Title="conjuntoArtigo Field" Url="html/392785935.htm" />
+        <HelpTOCNode Title="quantosArtigos Field" Url="html/1897727109.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6d59c31b-57cf-40ac-8e54-7bc73b5e041a" Title="__unnamed_struct_0001_4 Structure" Url="html/846889819.htm">
+      <HelpTOCNode Title="__unnamed_struct_0001_4 Members" Url="html/506506571.htm" />
+      <HelpTOCNode Id="190f7c2a-a50e-4989-8a42-10531fb69507" Title="__unnamed_struct_0001_4 Fields" Url="html/2117450658.htm">
+        <HelpTOCNode Title="cliente Field" Url="html/1773556577.htm" />
+        <HelpTOCNode Title="compras Field" Url="html/738759363.htm" />
+        <HelpTOCNode Title="numeroEmissao Field" Url="html/1143127452.htm" />
+        <HelpTOCNode Title="pontos Field" Url="html/1158712694.htm" />
+        <HelpTOCNode Title="quantasCompras Field" Url="html/362100002.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2f29cfbc-2be4-4db4-8dca-6f2897a4e5fe" Title="__unnamed_struct_0001_5 Structure" Url="html/846889818.htm">
+      <HelpTOCNode Title="__unnamed_struct_0001_5 Members" Url="html/1449808565.htm" />
+      <HelpTOCNode Id="e455cd36-dc8c-4bf3-8a1b-4c2033f4a03e" Title="__unnamed_struct_0001_5 Fields" Url="html/161135522.htm">
+        <HelpTOCNode Title="localidade Field" Url="html/663589138.htm" />
+        <HelpTOCNode Title="tabelaArtigos Field" Url="html/825345042.htm" />
+        <HelpTOCNode Title="tabelaCartao Field" Url="html/901577267.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6239a685-e1b6-4451-a8d1-6898a8b046cd" Title="Artigos Structure" Url="html/1331601824.htm">
+      <HelpTOCNode Title="Artigos Members" Url="html/1392183039.htm" />
+      <HelpTOCNode Id="9d8a5139-ca4a-4538-9f0e-10aaec26c24f" Title="Artigos Fields" Url="html/2128333906.htm">
+        <HelpTOCNode Title="artigo Field" Url="html/244904951.htm" />
+        <HelpTOCNode Title="proximo Field" Url="html/548850927.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b9448d17-7a17-4d39-9b35-a28e3b493ca2" Title="Cartoes Structure" Url="html/1100033596.htm">
+      <HelpTOCNode Title="Cartoes Members" Url="html/1299895549.htm" />
+      <HelpTOCNode Id="0e616cf4-f697-4af4-81ce-8b4bb59c6269" Title="Cartoes Fields" Url="html/1748041056.htm">
+        <HelpTOCNode Title="cartao Field" Url="html/1261216969.htm" />
+        <HelpTOCNode Title="proximo Field" Url="html/1680420921.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c7062f6e-c075-4773-ba04-011048c73233" Title="Compras Structure" Url="html/1821489802.htm">
+      <HelpTOCNode Title="Compras Members" Url="html/279356695.htm" />
+      <HelpTOCNode Id="fb1d57bd-5369-4f11-98b5-bf0c7a8f88c7" Title="Compras Fields" Url="html/1238706346.htm">
+        <HelpTOCNode Title="compra Field" Url="html/1709641724.htm" />
+        <HelpTOCNode Title="proximo Field" Url="html/1186742287.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

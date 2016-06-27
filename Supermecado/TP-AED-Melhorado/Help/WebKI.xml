@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="artigo field" Url="html/244904951.htm" />
+  <HelpKINode Title="Artigos">
+    <HelpKINode Title="all members" Url="html/1392183039.htm" />
+    <HelpKINode Title="all members, all members" Url="html/1392183039.htm" />
+    <HelpKINode Title="fields, fields" Url="html/2128333906.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Artigos structure">
+    <HelpKINode Title="Artigos Structure" Url="html/1331601824.htm" />
+    <HelpKINode Title="about Artigos structure" Url="html/1331601824.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Artigos.artigo field" Url="html/244904951.htm" />
+  <HelpKINode Title="Artigos.proximo field" Url="html/548850927.htm" />
+  <HelpKINode Title="cartao field" Url="html/1261216969.htm" />
+  <HelpKINode Title="cartaoCidadao field" Url="html/636766234.htm" />
+  <HelpKINode Title="Cartoes">
+    <HelpKINode Title="all members" Url="html/1299895549.htm" />
+    <HelpKINode Title="all members, all members" Url="html/1299895549.htm" />
+    <HelpKINode Title="fields, fields" Url="html/1748041056.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Cartoes structure">
+    <HelpKINode Title="Cartoes Structure" Url="html/1100033596.htm" />
+    <HelpKINode Title="about Cartoes structure" Url="html/1100033596.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Cartoes.cartao field" Url="html/1261216969.htm" />
+  <HelpKINode Title="Cartoes.proximo field" Url="html/1680420921.htm" />
+  <HelpKINode Title="cliente field" Url="html/1773556577.htm" />
+  <HelpKINode Title="codigoArtigo field" Url="html/477107365.htm" />
+  <HelpKINode Title="compra field" Url="html/1709641724.htm" />
+  <HelpKINode Title="Compras">
+    <HelpKINode Title="all members" Url="html/279356695.htm" />
+    <HelpKINode Title="all members, all members" Url="html/279356695.htm" />
+    <HelpKINode Title="fields, fields" Url="html/1238706346.htm" />
+  </HelpKINode>
+  <HelpKINode Title="compras field" Url="html/738759363.htm" />
+  <HelpKINode Title="Compras structure">
+    <HelpKINode Title="Compras Structure" Url="html/1821489802.htm" />
+    <HelpKINode Title="about Compras structure" Url="html/1821489802.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Compras.compra field" Url="html/1709641724.htm" />
+  <HelpKINode Title="Compras.proximo field" Url="html/1186742287.htm" />
+  <HelpKINode Title="conjuntoArtigo field" Url="html/392785935.htm" />
+  <HelpKINode Title="descricao field" Url="html/605729162.htm" />
+  <HelpKINode Title="email field" Url="html/472157079.htm" />
+  <HelpKINode Title="global namespace" Url="html/1494451555.htm" />
+  <HelpKINode Title="global.Artigos">
+    <HelpKINode Title="all members" Url="html/1392183039.htm" />
+  </HelpKINode>
+  <HelpKINode Title="global.Artigos structure" Url="html/1331601824.htm" />
+  <HelpKINode Title="global.Cartoes">
+    <HelpKINode Title="all members" Url="html/1299895549.htm" />
+  </HelpKINode>
+  <HelpKINode Title="global.Cartoes structure" Url="html/1100033596.htm" />
+  <HelpKINode Title="global.Compras">
+    <HelpKINode Title="all members" Url="html/279356695.htm" />
+  </HelpKINode>
+  <HelpKINode Title="global.Compras structure" Url="html/1821489802.htm" />
+  <HelpKINode Title="global.__unnamed_struct_0001_1">
+    <HelpKINode Title="all members" Url="html/685134517.htm" />
+  </HelpKINode>
+  <HelpKINode Title="global.__unnamed_struct_0001_1 structure" Url="html/846889822.htm" />
+  <HelpKINode Title="global.__unnamed_struct_0001_2">
+    <HelpKINode Title="all members" Url="html/1653517643.htm" />
+  </HelpKINode>
+  <HelpKINode Title="global.__unnamed_struct_0001_2 structure" Url="html/846889825.htm" />
+  <HelpKINode Title="global.__unnamed_struct_0001_3">
+    <HelpKINode Title="all members" Url="html/302797493.htm" />
+  </HelpKINode>
+  <HelpKINode Title="global.__unnamed_struct_0001_3 structure" Url="html/846889824.htm" />
+  <HelpKINode Title="global.__unnamed_struct_0001_4">
+    <HelpKINode Title="all members" Url="html/506506571.htm" />
+  </HelpKINode>
+  <HelpKINode Title="global.__unnamed_struct_0001_4 structure" Url="html/846889819.htm" />
+  <HelpKINode Title="global.__unnamed_struct_0001_5">
+    <HelpKINode Title="all members" Url="html/1449808565.htm" />
+  </HelpKINode>
+  <HelpKINode Title="global.__unnamed_struct_0001_5 structure" Url="html/846889818.htm" />
+  <HelpKINode Title="localidade field" Url="html/663589138.htm" />
+  <HelpKINode Title="morada field" Url="html/1556541608.htm" />
+  <HelpKINode Title="nif field" Url="html/209391230.htm" />
+  <HelpKINode Title="nome field" Url="html/179564923.htm" />
+  <HelpKINode Title="numeroEmissao field" Url="html/1143127452.htm" />
+  <HelpKINode Title="pontos field" Url="html/1158712694.htm" />
+  <HelpKINode Title="preco field" Url="html/1300525814.htm" />
+  <HelpKINode Title="proximo field">
+    <HelpKINode Title="proximo Field" Url="html/1186742287.htm" />
+    <HelpKINode Title="proximo Field" Url="html/548850927.htm" />
+    <HelpKINode Title="proximo Field" Url="html/1680420921.htm" />
+  </HelpKINode>
+  <HelpKINode Title="quantasCompras field" Url="html/362100002.htm" />
+  <HelpKINode Title="quantidadeStock field" Url="html/29990834.htm" />
+  <HelpKINode Title="quantidadeVendida field" Url="html/292994720.htm" />
+  <HelpKINode Title="quantosArtigos field" Url="html/1897727109.htm" />
+  <HelpKINode Title="tabelaArtigos field" Url="html/825345042.htm" />
+  <HelpKINode Title="tabelaCartao field" Url="html/901577267.htm" />
+  <HelpKINode Title="telefone field" Url="html/1882055208.htm" />
+  <HelpKINode Title="__unnamed_struct_0001_1">
+    <HelpKINode Title="all members" Url="html/685134517.htm" />
+    <HelpKINode Title="all members, all members" Url="html/685134517.htm" />
+    <HelpKINode Title="fields, fields" Url="html/603538526.htm" />
+  </HelpKINode>
+  <HelpKINode Title="__unnamed_struct_0001_1 structure">
+    <HelpKINode Title="__unnamed_struct_0001_1 Structure" Url="html/846889822.htm" />
+    <HelpKINode Title="about __unnamed_struct_0001_1 structure" Url="html/846889822.htm" />
+  </HelpKINode>
+  <HelpKINode Title="__unnamed_struct_0001_1.codigoArtigo field" Url="html/477107365.htm" />
+  <HelpKINode Title="__unnamed_struct_0001_1.descricao field" Url="html/605729162.htm" />
+  <HelpKINode Title="__unnamed_struct_0001_1.preco field" Url="html/1300525814.htm" />
+  <HelpKINode Title="__unnamed_struct_0001_1.quantidadeStock field" Url="html/29990834.htm" />
+  <HelpKINode Title="__unnamed_struct_0001_1.quantidadeVendida field" Url="html/292994720.htm" />
+  <HelpKINode Title="__unnamed_struct_0001_2">
+    <HelpKINode Title="all members" Url="html/1653517643.htm" />
+    <HelpKINode Title="all members, all members" Url="html/1653517643.htm" />
+    <HelpKINode Title="fields, fields" Url="html/970439586.htm" />
+  </HelpKINode>
+  <HelpKINode Title="__unnamed_struct_0001_2 structure">
+    <HelpKINode Title="__unnamed_struct_0001_2 Structure" Url="html/846889825.htm" />
+    <HelpKINode Title="about __unnamed_struct_0001_2 structure" Url="html/846889825.htm" />
+  </HelpKINode>
+  <HelpKINode Title="__unnamed_struct_0001_2.cartaoCidadao field" Url="html/636766234.htm" />
+  <HelpKINode Title="__unnamed_struct_0001_2.email field" Url="html/472157079.htm" />
+  <HelpKINode Title="__unnamed_struct_0001_2.morada field" Url="html/1556541608.htm" />
+  <HelpKINode Title="__unnamed_struct_0001_2.nif field" Url="html/209391230.htm" />
+  <HelpKINode Title="__unnamed_struct_0001_2.nome field" Url="html/179564923.htm" />
+  <HelpKINode Title="__unnamed_struct_0001_2.telefone field" Url="html/1882055208.htm" />
+  <HelpKINode Title="__unnamed_struct_0001_3">
+    <HelpKINode Title="all members" Url="html/302797493.htm" />
+    <HelpKINode Title="all members, all members" Url="html/302797493.htm" />
+    <HelpKINode Title="fields, fields" Url="html/985875550.htm" />
+  </HelpKINode>
+  <HelpKINode Title="__unnamed_struct_0001_3 structure">
+    <HelpKINode Title="__unnamed_struct_0001_3 Structure" Url="html/846889824.htm" />
+    <HelpKINode Title="about __unnamed_struct_0001_3 structure" Url="html/846889824.htm" />
+  </HelpKINode>
+  <HelpKINode Title="__unnamed_struct_0001_3.conjuntoArtigo field" Url="html/392785935.htm" />
+  <HelpKINode Title="__unnamed_struct_0001_3.quantosArtigos field" Url="html/1897727109.htm" />
+  <HelpKINode Title="__unnamed_struct_0001_4">
+    <HelpKINode Title="all members" Url="html/506506571.htm" />
+    <HelpKINode Title="all members, all members" Url="html/506506571.htm" />
+    <HelpKINode Title="fields, fields" Url="html/2117450658.htm" />
+  </HelpKINode>
+  <HelpKINode Title="__unnamed_struct_0001_4 structure">
+    <HelpKINode Title="__unnamed_struct_0001_4 Structure" Url="html/846889819.htm" />
+    <HelpKINode Title="about __unnamed_struct_0001_4 structure" Url="html/846889819.htm" />
+  </HelpKINode>
+  <HelpKINode Title="__unnamed_struct_0001_4.cliente field" Url="html/1773556577.htm" />
+  <HelpKINode Title="__unnamed_struct_0001_4.compras field" Url="html/738759363.htm" />
+  <HelpKINode Title="__unnamed_struct_0001_4.numeroEmissao field" Url="html/1143127452.htm" />
+  <HelpKINode Title="__unnamed_struct_0001_4.pontos field" Url="html/1158712694.htm" />
+  <HelpKINode Title="__unnamed_struct_0001_4.quantasCompras field" Url="html/362100002.htm" />
+  <HelpKINode Title="__unnamed_struct_0001_5">
+    <HelpKINode Title="all members" Url="html/1449808565.htm" />
+    <HelpKINode Title="all members, all members" Url="html/1449808565.htm" />
+    <HelpKINode Title="fields, fields" Url="html/161135522.htm" />
+  </HelpKINode>
+  <HelpKINode Title="__unnamed_struct_0001_5 structure">
+    <HelpKINode Title="__unnamed_struct_0001_5 Structure" Url="html/846889818.htm" />
+    <HelpKINode Title="about __unnamed_struct_0001_5 structure" Url="html/846889818.htm" />
+  </HelpKINode>
+  <HelpKINode Title="__unnamed_struct_0001_5.localidade field" Url="html/663589138.htm" />
+  <HelpKINode Title="__unnamed_struct_0001_5.tabelaArtigos field" Url="html/825345042.htm" />
+  <HelpKINode Title="__unnamed_struct_0001_5.tabelaCartao field" Url="html/901577267.htm" />
+</HelpKI>
